@@ -1,5 +1,5 @@
 # PE-infector-GUI
-GUI wrapper for PE-infector. The project considers prebuilt binaries of console version PE-infector for Linux/Windows platforms.
+GUI wrapper for PE-infector. The project contains prebuilt binaries of console version PE-infector for Linux/Windows platforms.
 
 ## Requirements
 
